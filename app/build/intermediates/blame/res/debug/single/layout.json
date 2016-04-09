@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offline_reading.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\src\\main\\res\\layout\\offline_reading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\offline_reading.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\src\\main\\res\\layout\\offline_reading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_list.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\src\\main\\res\\layout\\feed_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_list.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\src\\main\\res\\layout\\feed_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inline_browser.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\src\\main\\res\\layout\\inline_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_list_item.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\src\\main\\res\\layout\\feed_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\inline_browser.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master\\app\\src\\main\\res\\layout\\inline_browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\feed_list_item.xml",
+        "source": "C:\\Users\\Thanusha\\AndroidStudioProjects\\RSSDemo-master1\\app\\src\\main\\res\\layout\\feed_list_item.xml"
+    }
+]

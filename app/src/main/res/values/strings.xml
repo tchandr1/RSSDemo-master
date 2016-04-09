@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">IIT Events</string>
+    <string name="title">Title goes here!</string>
+    <string name="date">Date goes here!</string>
+    <color name="red">#ff0000</color>
+    <string name="loading">Please wait</string>
+    <string name="hometitle">Welcome to IIT Event</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ff0000</color>
+    <string name="app_name">IIT Events</string>
+    <string name="date">Date goes here!</string>
+    <string name="hometitle">Welcome to IIT Event</string>
+    <string name="loading">Please wait</string>
+    <string name="title">Title goes here!</string>
+    <style name="AlertBox" parent="android:Theme.Black"/>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

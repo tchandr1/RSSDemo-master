@@ -1,0 +1,31 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.iitevents.rssmain"
+    android:versionCode="111"
+    android:versionName="1.1.1" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.iitevents.rssmain.InitActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.iitevents.rssmain.HomeActivity" />
+        <activity android:name="com.iitevents.rssmain.ListActivity" />
+        <activity android:name="com.iitevents.rssmain.OfflineActivity" />
+        <activity android:name="com.iitevents.rssmain.PostActivity" />
+    </application>
+
+</manifest>
